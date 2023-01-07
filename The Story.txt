@@ -1,0 +1,4 @@
+Imagine you're somehow back in the early days of digital computers. You don't know how you got here, but you have a feeling that you are from the future. As new discoveries are announced in the news, you feel like you've heard it before and you can almost predict what will come next. You also feel that there are others like you, the ones making news, but the masses seem to be asleep.
+
+A company named Telin has just announced a new microprocessor. A company named MilliSoft has announced a computer for the masses. No one is concerned that it's a bit buggy; anyone can use it and everyone is starting to. A company named Logana Devices that few people know about is making some interesting sensor chips that could be used with those Telin processors.
+
